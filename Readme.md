@@ -15,7 +15,7 @@ A simple RESTful API built using **Node.js** and **Express.js** to manage a list
 - Node.js
 - Express.js
 
-## 📁 Project Structure
+
 
 ## 📦 Scripts
 
